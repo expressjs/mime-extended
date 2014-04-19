@@ -1,0 +1,18 @@
+[
+  {
+    "ext": "jade",
+    "type": "text/jade"
+  }, {
+    "ext": "stylus",
+    "type": "text/stylus"
+  }, {
+    "ext": "less",
+    "type": "text/less"
+  }, {
+    "ext": "coffee",
+    "type": "text/coffeescript"
+  }, {
+    "ext": "hbs",
+    "type": "text/x-handlebars-template"
+  }
+]
