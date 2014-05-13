@@ -1,4 +1,6 @@
 
+DEPRECATED - Please use [mime-types](https://github.com/expressjs/mime-types) instead.
+
 # MIME EXTENDED
 
 Extends the [mime](https://github.com/broofa/node-mime) module with two main features:
