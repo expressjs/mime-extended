@@ -1,7 +1,7 @@
 {
   "name": "mime-extended",
-  "version": "1.0.0",
   "description": "DEPRECATED - Please use mime-types instead.",
+  "version": "1.0.1",
   "author": {
     "name": "Jonathan Ong",
     "email": "me@jongleberry.com",
